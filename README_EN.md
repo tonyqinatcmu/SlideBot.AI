@@ -4,7 +4,9 @@
 
 # SlideBot AI 2.0
 
-### AI-Powered Presentation Generator
+### AI-Powered Presentation Generator  
+*Formerly known as: SlideFlow AI (screenshots and videos may show the old name)*  
+### 🏢 Battle-tested in real business scenarios, refined with enterprise user feedback   
 
 **Enter your topic, outline or materials, AI creates professional slides**
 
